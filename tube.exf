@@ -1,0 +1,399 @@
+EX Version: 2
+Region: /
+!#nodeset nodes
+Shape. Dimension=0
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. #Values=4 (value,d/ds1,d/ds2,d/ds3)
+ y. #Values=4 (value,d/ds1,d/ds2,d/ds3)
+ z. #Values=4 (value,d/ds1,d/ds2,d/ds3)
+Node: 1
+  2.500000000000000e-01 -0.000000000000000e+00  0.000000000000000e+00  2.500000000000000e-01
+  0.000000000000000e+00  3.926990816987241e-01  0.000000000000000e+00  0.000000000000000e+00
+  0.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 2
+  1.530808498934192e-17 -3.926990816987241e-01  0.000000000000000e+00  1.530808498934192e-17
+  2.500000000000000e-01  2.404588367152237e-17  0.000000000000000e+00  2.500000000000000e-01
+  0.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 3
+ -2.500000000000000e-01 -4.809176734304474e-17  0.000000000000000e+00 -2.500000000000000e-01
+  3.061616997868383e-17 -3.926990816987241e-01  0.000000000000000e+00  3.061616997868383e-17
+  0.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 4
+ -4.592425496802574e-17  3.926990816987241e-01  0.000000000000000e+00 -4.592425496802574e-17
+ -2.500000000000000e-01 -7.213765101456712e-17  0.000000000000000e+00 -2.500000000000000e-01
+  0.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 5
+  2.500000000000000e-01 -0.000000000000000e+00  0.000000000000000e+00  2.500000000000000e-01
+  0.000000000000000e+00  3.926990816987241e-01  0.000000000000000e+00  0.000000000000000e+00
+  1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 6
+  1.530808498934192e-17 -3.926990816987241e-01  0.000000000000000e+00  1.530808498934192e-17
+  2.500000000000000e-01  2.404588367152237e-17  0.000000000000000e+00  2.500000000000000e-01
+  1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 7
+ -2.500000000000000e-01 -4.809176734304474e-17  0.000000000000000e+00 -2.500000000000000e-01
+  3.061616997868383e-17 -3.926990816987241e-01  0.000000000000000e+00  3.061616997868383e-17
+  1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 8
+ -4.592425496802574e-17  3.926990816987241e-01  0.000000000000000e+00 -4.592425496802574e-17
+ -2.500000000000000e-01 -7.213765101456712e-17  0.000000000000000e+00 -2.500000000000000e-01
+  1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 9
+  5.000000000000000e-01 -0.000000000000000e+00  0.000000000000000e+00  2.500000000000000e-01
+  0.000000000000000e+00  7.853981633974483e-01  0.000000000000000e+00  0.000000000000000e+00
+  0.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 10
+  3.061616997868383e-17 -7.853981633974483e-01  0.000000000000000e+00  1.530808498934192e-17
+  5.000000000000000e-01  4.809176734304474e-17  0.000000000000000e+00  2.500000000000000e-01
+  0.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 11
+ -5.000000000000000e-01 -9.618353468608949e-17  0.000000000000000e+00 -2.500000000000000e-01
+  6.123233995736766e-17 -7.853981633974483e-01  0.000000000000000e+00  3.061616997868383e-17
+  0.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 12
+ -9.184850993605148e-17  7.853981633974483e-01  0.000000000000000e+00 -4.592425496802574e-17
+ -5.000000000000000e-01 -1.442753020291342e-16  0.000000000000000e+00 -2.500000000000000e-01
+  0.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 13
+  5.000000000000000e-01 -0.000000000000000e+00  0.000000000000000e+00  2.500000000000000e-01
+  0.000000000000000e+00  7.853981633974483e-01  0.000000000000000e+00  0.000000000000000e+00
+  1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 14
+  3.061616997868383e-17 -7.853981633974483e-01  0.000000000000000e+00  1.530808498934192e-17
+  5.000000000000000e-01  4.809176734304474e-17  0.000000000000000e+00  2.500000000000000e-01
+  1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 15
+ -5.000000000000000e-01 -9.618353468608949e-17  0.000000000000000e+00 -2.500000000000000e-01
+  6.123233995736766e-17 -7.853981633974483e-01  0.000000000000000e+00  3.061616997868383e-17
+  1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+Node: 16
+ -9.184850993605148e-17  7.853981633974483e-01  0.000000000000000e+00 -4.592425496802574e-17
+ -5.000000000000000e-01 -1.442753020291342e-16  0.000000000000000e+00 -2.500000000000000e-01
+  1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  0.000000000000000e+00
+!#mesh mesh1d, dimension=1, nodeset=nodes
+Shape. Dimension=1, line
+#Scale factor sets=0
+#Nodes=0
+#Fields=0
+Element: 1
+Element: 2
+Element: 3
+Element: 4
+Element: 5
+Element: 6
+Element: 7
+Element: 8
+Element: 9
+Element: 10
+Element: 11
+Element: 12
+Element: 13
+Element: 14
+Element: 15
+Element: 16
+Element: 17
+Element: 18
+Element: 19
+Element: 20
+Element: 21
+Element: 22
+Element: 23
+Element: 24
+Element: 25
+Element: 26
+Element: 27
+Element: 28
+Element: 29
+Element: 30
+Element: 31
+Element: 32
+!#mesh mesh2d, dimension=2, face mesh=mesh1d, nodeset=nodes
+Shape. Dimension=2, line*line
+#Scale factor sets=0
+#Nodes=0
+#Fields=0
+Element: 1
+ Faces:
+ 1 2 3 4
+Element: 2
+ Faces:
+ 5 6 7 8
+Element: 3
+ Faces:
+ 9 10 1 5
+Element: 4
+ Faces:
+ 11 12 2 6
+Element: 5
+ Faces:
+ 3 7 9 11
+Element: 6
+ Faces:
+ 4 8 10 12
+Element: 7
+ Faces:
+ 13 14 15 16
+Element: 8
+ Faces:
+ 17 18 5 13
+Element: 9
+ Faces:
+ 19 20 6 14
+Element: 10
+ Faces:
+ 7 15 17 19
+Element: 11
+ Faces:
+ 8 16 18 20
+Element: 12
+ Faces:
+ 21 22 23 24
+Element: 13
+ Faces:
+ 25 26 13 21
+Element: 14
+ Faces:
+ 27 28 14 22
+Element: 15
+ Faces:
+ 15 23 25 27
+Element: 16
+ Faces:
+ 16 24 26 28
+Element: 17
+ Faces:
+ 29 30 21 1
+Element: 18
+ Faces:
+ 31 32 22 2
+Element: 19
+ Faces:
+ 23 3 29 31
+Element: 20
+ Faces:
+ 24 4 30 32
+!#mesh mesh3d, dimension=3, face mesh=mesh2d, nodeset=nodes
+Shape. Dimension=3, line*line*line
+#Scale factor sets=0
+#Nodes=8
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based.
+  #Nodes=8
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  1. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  2. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  3. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  4. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  5. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  6. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  7. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  7. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  8. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  8. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based.
+  #Nodes=8
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  1. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  2. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  3. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  4. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  5. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  6. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  7. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  7. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  8. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  8. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based.
+  #Nodes=8
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  1. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  2. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  3. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  4. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  5. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  6. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  7. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  7. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  8. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  8. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+Element: 1
+ Faces:
+ 1 2 3 4 5 6
+ Nodes:
+ 1 2 5 6 9 10 13 14
+Element: 2
+ Faces:
+ 2 7 8 9 10 11
+ Nodes:
+ 2 3 6 7 10 11 14 15
+Element: 3
+ Faces:
+ 7 12 13 14 15 16
+ Nodes:
+ 3 4 7 8 11 12 15 16
+Element: 4
+ Faces:
+ 12 1 17 18 19 20
+ Nodes:
+ 4 1 8 5 12 9 16 13
